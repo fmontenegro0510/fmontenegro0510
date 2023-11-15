@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Francisco</h1>
 <h3 align="center">A passionate developer from Argentina 🧉🇦🇷⚽🏆⭐⭐⭐</h3>
 
-- 🌱 I’m currently learning **UI/UX and Java**
+- 🌱 I’m currently learning **QA and Java**
 
 - 👨‍💻 All of my projects are available at [franciscomontenegro.com.ar](https://www.franciscomontenegro.com.ar)
-
-- 📝 I regularly write articles on [https://dev.to/fmontenegro0510](https://dev.to/fmontenegro0510)
 
 - 💬 Ask me about **JS, PHP (CodeIgniter, Laravel)**
 
